@@ -1,0 +1,50 @@
+.reg{
+    background-color:#ffd979;
+    height: 350px;
+    width: 350px;
+    border: 2px solid;
+    border-radius: 20px;
+    align-items: center;
+    box-shadow: 2px 2px 2px;
+    margin: 100px auto;
+   color:#272829;
+   padding: 10px 30px 20px;
+
+}
+.reg h2{
+    text-align: center;
+    color: #61677A;
+    font-size: 33px;
+}
+.reg label{
+    color: #61677A;
+    display: block;
+    font-size: 21px;
+    padding: 8px;
+}
+.reg input{
+    border-radius: 5px;
+    width: 100%;
+    padding: 7px;
+}
+body{
+    background-color: black;
+}
+.us{  
+  border-radius: 20px;
+}
+input:focus{
+    background-color:#d8d9da;
+}
+.bu{
+text-align: center;
+}
+button{
+    background-color: #d8d9da;
+    border-radius: 6px;
+    font-size: 20px;
+    color: #61677A;
+    margin-top: 20px;
+    padding: 5px 20px;
+    box-shadow: 2px;
+}
